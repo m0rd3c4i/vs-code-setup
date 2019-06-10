@@ -1,0 +1,6 @@
+// Place your key bindings in this file to override the defaults
+[
+    { "key": "cmd+t",                 "command": "workbench.action.quickOpen" },
+    { "key": "shift+cmd+r",           "command": "workbench.files.action.showActiveFileInExplorer" }
+    { "key": "shift+cmd+c",           "command": "-workbench.action.terminal.openNativeConsole", "when": "!terminalFocus" },
+]

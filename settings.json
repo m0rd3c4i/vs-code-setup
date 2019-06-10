@@ -1,0 +1,28 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Flatland Monokai",
+  "[scss]": {
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.tabSize": 2,
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2
+  },
+  "files.trimTrailingWhitespace": true,
+  "breadcrumbs.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "editor.quickSuggestions": true,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": true,
+  "editor.minimap.enabled": true,
+  "editor.find.autoFindInSelection": false,
+  "editor.find.seedSearchStringFromSelection": false,
+}
